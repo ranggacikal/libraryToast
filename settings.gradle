@@ -1,0 +1,3 @@
+include ':myToast'
+include ':app'
+rootProject.name = "ModulToast"
